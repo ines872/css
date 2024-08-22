@@ -1,0 +1,33 @@
+p {
+    color: blueviolet;
+}
+
+.div1 {
+    background-color: rgb(127, 246, 255);
+    text-align: center;
+    padding: 100px;
+    margin: 5rem;
+    border-radius: 50px 20px;
+}
+
+.div2 {
+    background-color: rgb(255, 112, 243);
+    padding: 100px;
+    margin: 5rem;
+    border-radius: 50px 20px;
+}
+
+.title1 {
+    color: rgb(255, 0, 242);
+}
+
+.title2 {
+    color: rgb(0, 255, 234);
+}
+#learn {
+    color: red;
+    text-align: center;
+}
+.div1 p {
+    color: orange;
+}
